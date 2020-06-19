@@ -1,6 +1,7 @@
 To run the file:
+1) Import user.sql in localhost
 
-1) Install and Import the following packages: 
+2) Install and Import the following packages: 
 Crypto
 PyQt5
 stegano
@@ -11,5 +12,5 @@ time
 hashlib
 sys
 
-2) Run ./designsgui/GUI.py
+3) Run ./designsgui/GUI.py
 
