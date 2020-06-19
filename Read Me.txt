@@ -1,0 +1,15 @@
+To run the file:
+
+1) Install and Import the following packages: 
+Crypto
+PyQt5
+stegano
+pymysql
+base64
+re
+time
+hashlib
+sys
+
+2) Run ./designsgui/GUI.py
+

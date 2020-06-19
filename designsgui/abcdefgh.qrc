@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Image7">
+    <file>../test/redcross-removebg-preview.png</file>
+  </qresource>
+</RCC>
